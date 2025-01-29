@@ -1,4 +1,4 @@
-import pytest
+import pytest # type: ignore
 from assignment import *
 
 def test_format_string():
